@@ -2,6 +2,9 @@
 
 IWExplor es un navegador web ligero, rápido y sencillo desarrollado en Python.
 
+## enfoque:
+el enfoque es tener un navegador versátil, pribado, seguro, lijero, sensillo y fácil de ser usado para personas con discapacidad visual.
+
 ## Características
   
 *   *Ligero y Rápido:* Diseñado para un rendimiento óptimo con un consumo mínimo de recursos.
@@ -16,11 +19,11 @@ IWExplor es un navegador web ligero, rápido y sencillo desarrollado en Python.
 
 ## Instalación
 
-(Instrucciones sobre cómo instalar y ejecutar IWExplor)
+no tenemos paquetes de lanzamientos de instalación, pero puedes clonar el repositorio `git clone https://github.com/LeonardoBlancoSerna/IWExplorer-navegator`. una vez hecho, puedes compilar el código desde Pyinstaller, no sin antes instalar WX `pip install wxpython` esta biblioteca es ecencial para el desarrollo y el correcto funcionamiento del navegador. aparte de compilarlo puedes ejecutarlo desde tu entorno de consola.
 
 ## Uso
 
-(Instrucciones básicas sobre cómo usar IWExplor)
+el enfoque en accesibilidad de IWExplor es muy claro y evidente. atajos de teclado que se pueden examinar desde la ayuda del navegador.
 
 ## Contribución
 
